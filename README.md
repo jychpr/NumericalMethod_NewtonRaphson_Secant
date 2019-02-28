@@ -13,3 +13,7 @@ File metnuminputfix.py contain both method with variative X0 input for both meth
 File metnum.c contain both method with fixed value written in the code for both method. This file is used for my homework
 
 File metnum.py contain both method with fixed value written in the code for both method, in python. This file is used for my homework
+
+.
+
+File metnumtutor.c is used for my tutorial homework
